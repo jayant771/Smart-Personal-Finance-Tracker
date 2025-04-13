@@ -68,7 +68,8 @@ This project is under active development. Contributions, suggestions, and feedba
 
 ---
 
-Developer
+Developer:
+
 Jayant Anand
 Email: Jayant.Anand1@Hotmail.com 
 LinkedIn: [https://www.linkedin.com/in/jayant-anand-299962155/]
